@@ -1,0 +1,8 @@
+Feature: check the functionality of adactin hotel booking application
+
+
+Scenario: verify the login functionality
+	  Given enter the URL
+	  When user enter the username in the username field
+	  And Test password
+	  Then click login button
